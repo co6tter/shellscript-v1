@@ -1,4 +1,5 @@
 # shellscript-v1
 
 ## Usage
-.env.sampleをコピーして.envを作成する
+
+- .env.sampleをコピーして.envを作成する
